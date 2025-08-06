@@ -16,7 +16,8 @@ It's not to be used as a library since it doesn't have any kind of abstraction y
 
 ## Data
 
-data/basestats.txt
+data/basestats.txt and  
+
 data/statgains.txt
 
 full credits for the data to Kurasu Soratobu's FAQ at https://gamefaqs.gamespot.com/ps/197977-monster-rancher-2/faqs/41787 and MonsterRancher.com (accessed through The Wayback Machine)
