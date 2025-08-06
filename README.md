@@ -14,7 +14,7 @@ If you want to use it, you need to change the main function in Mr2Combine.java a
 
 It's not to be used as a library since it doesn't have any kind of abstraction yet.  
 
-If you are a monster rancher 2 player, i advised not to use this since it has no UI or documentations, and go to legendcup.com instead.
+If you are a monster rancher 2 player, i advise not to use this since it has no UI or documentations, and go to legendcup.com instead.
 
 ## Data
 
