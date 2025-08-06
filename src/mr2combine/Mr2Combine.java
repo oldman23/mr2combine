@@ -40,7 +40,7 @@ public class Mr2Combine {
 	
 	public static void main(String[] args) {
 		processFiles();
-		int a = 5;
+		int a = 1; // Change 1-6 depending on what you want to do. 
 		
 		switch (a) {
 		case 1:
@@ -943,8 +943,8 @@ public class Mr2Combine {
 //	arrowhead/golem            | 120 | 150 | 70  | 50  | 60  | 190 | d p l i sp sk
 	
 	private static void processFiles() {
-		File bsfile = new File(System.getProperty("user.home") + "\\OneDrive\\Mr2Combine\\basestats.txt");
-		File sgfile = new File(System.getProperty("user.home") + "\\OneDrive\\Mr2Combine\\statgains.txt");
+		File bsfile = new File("data\\basestats.txt");
+		File sgfile = new File("data\\statgains.txt");
 		
 		try (BufferedReader br = new BufferedReader(new FileReader(bsfile));
 				BufferedReader br2 = new BufferedReader(new FileReader(sgfile));) {
