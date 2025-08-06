@@ -8,7 +8,10 @@ Monster Rancher 2 (PSX version) Breeding tools to find out:
 
 ## User Interface
 
-Currently nonexistent with no plans to make any.  This tool is merely for personal use.  It is very functional, however.  If you want to use it, you need to change the main function in Mr2Combine.java and run it.  Since most methods are private.  
+Currently nonexistent with no plans to make any.  This tool is merely for personal use.  It is very functional, however.  
+
+If you want to use it, you need to change the main function in Mr2Combine.java and run it.  Since most methods are private.  
+
 It's not to be used as a library since it doesn't have any kind of abstraction yet.  
 
 ## Data
